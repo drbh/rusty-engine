@@ -1,0 +1,9 @@
+[package]
+name = "rs-stock-analyzer"
+version = "0.1.0"
+authors = ["David Holtz <david.richard.holtz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+alphavantage = "0.5.0"
+rouille = "3.0.0"
